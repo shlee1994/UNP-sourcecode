@@ -5,6 +5,6 @@ CONFIG -= qt
 
 LIBS += -lunp
 SOURCES += \
-    daytimetcpsrv.c \
     str_echo.c \
-    sinachldwait.c
+    sinachldwait.c \
+    main.c
